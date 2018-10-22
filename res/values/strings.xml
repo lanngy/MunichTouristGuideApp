@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">MunichTouristGuideApp</string>
+    <string name="ArtandScienceMuseums">Art and Science Museums</string>
+    <string name="BarandClubs">Bar and Clubs</string>
+    <string name="CafeandRestaurants">Cafe and Restaurants</string>
+    <string name="Sightseeing">Sightseeing</string>
+
+    <string name="local">Kunsthalle</string>
+    <string name="address">Theatinerstraße 8, 80333 München</string>
+    <string name="description">Öffentliche Verkehrsmittel U-Bahn:
+        U4/U5 Odeonsplatz,U3/U6 Marienplatz und Odeonsplatz S-Bahn
+        alle Linien bis Marienplatz, Tram Linie 19 bis Theatinerstraße, Bus
+        Linie 100 bis Odeonsplatz</string>
+    <string name="telephone">Tel. 089/224412</string>
+
+
+    <string name="local_science">Deutsches Museum</string>
+    <string name="address_science">Museumsinsel 1,80538 München</string>
+    <string name="description_science">S-Bahn:
+    Alle S-Bahnen, Isartor, Straßenbahn:
+    Linie 17, Deutsches Museum
+    Linie 16, Isartor
+    Linie 18, Fraunhoferstraße,Bus:
+    Linie 132, Boschbrücke
+    Linie 52 + 62, Baaderstraße, U-Bahn:
+    Linie 1 + 2, Fraunhoferstraße </string>
+    <string name="telephone_science">Tel. +49 (0)89/ 2179-333 </string>
+
+    <string name="local_nymph">Museum Mensch und Natur</string>
+    <string name="address_nymph">Schloss Nymphenburg, 80638 München</string>
+    <string name="description_nymph">Anfahrt mit den öffentlichen Verkehrsmitteln:
+    Trambahn 17, Bus 51 und 151: Haltestellte Schloss Nymphenburg,
+    Anfahrt mit dem Auto:
+    Anfahrt wie zum Hauptportal Schloss Nymphenburg, dann über Nördliche Auffahrtsallee zum nördlichen Schloss-Rondell. Hier befinden sich PKW-Stellplätze.
+    Anfahrt mit Reisebussen:
+    Anfahrt wie zum Hauptportal Schloss Nymphenburg, dann über Südliche Auffahrtsallee zum südlichen Schloss-Rondell, wo sich die Busparkplätze befinden.</string>
+    <string name="telephone_nymph">Tel. 089 / 17 95 89-0 </string>
+
+    <string name="local_goldene_bar">Die goldene Bar </string>
+    <string name="address_goldene_bar">Prinzregentenstraße 1, 80538 München</string>
+    <string name="description_goldene_bar">Ubahn U3 nach Odeonsplatz, danach paar Minuten zu Fuß</string>
+    <string name="telephone_goldene_bar">Tel. 089 54804777</string>
+
+    <string name="local_hugo">Hugo </string>
+    <string name="address_hugo">Promenadepl. 1-3, 80333 München</string>
+    <string name="description_hugo">Odeonspl.
+    Auf Odeonspl. nach Süden Richtung Theatinerstraße starten,
+    Weiter auf Brienner Str.,
+    Links abbiegen auf Maximilianspl./Platz der Opfer des Nationalsozialismus
+    Weiter auf Maximilianspl.,
+    Links abbiegen auf Pacellistraße,
+    Weiter auf Promenadepl.,
+    Das Ziel befindet sich auf der rechten Seite</string>
+    <string name="telephone_hugo">Tel. 089 221270</string>
+
+    <string name="local_allianz">Allianz Arena </string>
+    <string name="address_allianz">Werner-Heisenberg-Allee 25, 80939 München</string>
+    <string name="description_allianz">Öffentliche Verkehrsmittel: Mit den öffentlichen Verkehrsmitteln im Münchner Verkehrs- und Tarifverbund (MVV) erreichen Sie die Allianz Arena bequem und sicher. Kommen Sie mit dem Zug am Münchner Hauptbahnhof oder am Münchener-Ostbahnhof an, fahren Sie in wenigen Minuten mit der S-Bahn zum zentralen Umsteigepunkt Marienplatz und steigen dort in die U-Bahnlinie U 6 (Richtung Garching-Forschungszentrum) ein. Fahren Sie mit der U-Bahn bis zur Haltestelle Fröttmaning. Die Fahrzeit vom Marienplatz bis nach Fröttmaning beträgt ca. 16 Minuten. Von dort erreichen Sie das Stadion bequem über die Esplanade. Nutzen Sie auch die Möglichkeiten, die Ihnen Park+Ride bietet. Stellen Sie Ihr Fahrzeug in einer P+R-Anlage ab und fahren Sie mit den öffentlichen Verkehrsmitteln ohne Stress zum Stadion weiter. Für Besucher, die München vom Flughafen Franz Josef Strauß erreichen, finden Sie einen gesonderten Hinweis des Münchner Verkehrs- und Tarifverbundes (MVV).</string>
+    <string name="telephone_allianz">Tel. 089 69931222</string>
+
+    <string name="local_schloss">Schloss Nymphenburg </string>
+    <string name="address_schloss">Schloß Nymphenburg 1, 80638 München</string>
+    <string name="description_schloss">Laim-> Zu Fuß
+    1,7 km (21 Minuten)
+    Dülferstraße
+    U2 in Richtung Messestadt Ost
+    Abfahrt in 22 min 47 s
+    Hauptbahnhof
+    Zu Fuß
+    60 m (1 Minute)
+    Hauptbahnhof
+    17 in Richtung Amalienburgstraße
+    Schloss Nymphenburg
+    Zu Fuß
+    700 m (8 Minuten)
+    Schloss Nymphenburg, Schloß Nymphenburg 1, 80638 München
+    </string>
+    <string name="telephone_schloss">Tel. 089 69931222</string>
+
+    <string name="local_mexican">El Gordo Loco </string>
+    <string name="address_mexican">Mariannenstraße 3, 80538 München</string>
+    <string name="description_mexican">Isartor:
+    Auf Zweibrückenstraße nach Nordwesten Richtung Thierschstraße starten
+    40 m
+    Rechts abbiegen auf Thierschstraße
+    400 m
+    Links abbiegen auf Mariannenstraße
+    Das Ziel befindet sich auf der rechten Seite</string>
+    <string name="telephone_mexican">Tel. 089 21268355</string>
+
+    <string name="local_Königin">Königin 43 </string>
+    <string name="address_Königin">Prinzregentenstraße 1, 80538 München</string>
+    <string name="description_Königin">Ludwig-Maximilians-Universität München
+    Auf Geschwister-Scholl-Platz nach Süden Richtung Ludwigstraße
+    92 m
+    Weiter auf Professor-Huber-Platz
+    87 m
+    Rechts abbiegen auf Veterinärstraße
+    190 m
+    Links abbiegen auf Königinstraße
+    Das Ziel befindet sich auf der linken Seite.</string>
+    <string name="telephone_Königin">Tel. 089 331262</string>
+</resources>
